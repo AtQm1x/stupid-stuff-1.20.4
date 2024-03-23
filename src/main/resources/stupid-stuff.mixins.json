@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.atmx.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "blockBreakMixin",
+    "ExampleMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}
